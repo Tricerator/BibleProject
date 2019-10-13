@@ -62,12 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACstav.cs" />
-    <Compile Include="Aho-Corasick.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="AhoCorasick.cs" />
+    <Compile Include="Searcher.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Searcher.Designer.cs">
+      <DependentUpon>Searcher.cs</DependentUpon>
     </Compile>
     <Compile Include="KMP.cs" />
     <Compile Include="Menu.cs">
@@ -85,23 +85,40 @@
       <DependentUpon>Results.cs</DependentUpon>
     </Compile>
     <Compile Include="SetterOfSearch.cs" />
-    <Compile Include="strings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>strings.resx</DependentUpon>
+    <Compile Include="TransformImput.cs" />
+    <Compile Include="Warning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warning.Designer.cs">
+      <DependentUpon>Warning.cs</DependentUpon>
     </Compile>
     <Compile Include="XMLParser.cs" />
-    <EmbeddedResource Include="Form1.aa-DJ.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Menu.en-GB.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.aa-ER.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Results.cs-CZ.resx">
+      <DependentUpon>Results.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.aa.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Results.cs.resx">
+      <DependentUpon>Results.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Results.en-GB.resx">
+      <DependentUpon>Results.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Results.en.resx">
+      <DependentUpon>Results.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Searcher.cs-CZ.resx">
+      <DependentUpon>Searcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Searcher.cs.resx">
+      <DependentUpon>Searcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Searcher.en-GB.resx">
+      <DependentUpon>Searcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Searcher.resx">
+      <DependentUpon>Searcher.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
@@ -119,9 +136,11 @@
     <EmbeddedResource Include="Results.resx">
       <DependentUpon>Results.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="strings.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>strings.Designer.cs</LastGenOutput>
+    <EmbeddedResource Include="Warning.en.resx">
+      <DependentUpon>Warning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Warning.resx">
+      <DependentUpon>Warning.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

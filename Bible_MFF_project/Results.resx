@@ -117,4 +117,147 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="button_changeSeek.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;button_backToMenu.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>9, 20</value>
+  </data>
+  <data name="&gt;&gt;button_saveFile.Name" xml:space="preserve">
+    <value>button_saveFile</value>
+  </data>
+  <data name="&gt;&gt;button_saveFile.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <data name="&gt;&gt;button_changeSeek.Name" xml:space="preserve">
+    <value>button_changeSeek</value>
+  </data>
+  <data name="&gt;&gt;button_changeSeek.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button_backToMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 403</value>
+  </data>
+  <data name="&gt;&gt;button_backToMenu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="richTextBox_results.Size" type="System.Drawing.Size, System.Drawing">
+    <value>644, 509</value>
+  </data>
+  <data name="button_saveFile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 38</value>
+  </data>
+  <data name="button_saveFile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 457</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 507</value>
+  </data>
+  <data name="button_backToMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 38</value>
+  </data>
+  <data name="&gt;&gt;button_backToMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 38</value>
+  </data>
+  <data name="richTextBox_results.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;button_changeSeek.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="button_saveFile.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button_changeSeek.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 41</value>
+  </data>
+  <data name="button_changeSeek.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 283</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button_saveFile.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="richTextBox_results.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="button_changeSeek.Text" xml:space="preserve">
+    <value>Upravit hledání</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;richTextBox_results.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button_backToMenu.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="button_saveFile.Text" xml:space="preserve">
+    <value>Uložit</value>
+  </data>
+  <data name="button_backToMenu.Text" xml:space="preserve">
+    <value>Zpět do menu</value>
+  </data>
+  <data name="&gt;&gt;richTextBox_results.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_backToMenu.Name" xml:space="preserve">
+    <value>button_backToMenu</value>
+  </data>
+  <data name="richTextBox_results.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;button_saveFile.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;richTextBox_results.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;richTextBox_results.Name" xml:space="preserve">
+    <value>richTextBox_results</value>
+  </data>
+  <data name="&gt;&gt;button_changeSeek.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Nové hledání</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 343</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>cs</value>
+  </metadata>
 </root>

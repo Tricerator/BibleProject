@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible_MFF_project", "Bible_MFF_project\Bible_MFF_project.csproj", "{37F6D2FA-4F08-438A-ABF8-15B2BDFB8F6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestBible", "XUnitTestBible\XUnitTestBible.csproj", "{69B4B71F-DEFF-4EA8-83A7-3CDE24277949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{37F6D2FA-4F08-438A-ABF8-15B2BDFB8F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37F6D2FA-4F08-438A-ABF8-15B2BDFB8F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37F6D2FA-4F08-438A-ABF8-15B2BDFB8F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B4B71F-DEFF-4EA8-83A7-3CDE24277949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B4B71F-DEFF-4EA8-83A7-3CDE24277949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B4B71F-DEFF-4EA8-83A7-3CDE24277949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B4B71F-DEFF-4EA8-83A7-3CDE24277949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
